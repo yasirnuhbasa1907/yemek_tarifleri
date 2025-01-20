@@ -87,11 +87,10 @@ Yemeğin açıklamaları ve gerekli malzemeler, kullanıcıya yemeğin hazırlan
 - Pişirme Videosu:
 Kullanıcı, pişirmeye başla butonuna tıklayarak yemeğin yapılışını gösteren video içeriğine erişebilir.
 
-![Screenshot 2025-01-17 210404](https://github.com/user-attachments/assets/3c50891c-6cad-47cb-b10c-248dafdd35dd)
-![Screenshot 2025-01-17 210503](https://github.com/user-attachments/assets/581dbdce-2eda-490b-82da-c1a58eefea1a)
-
+![Screenshot 2025-01-17 210404](https://github.com/user-attachments/assets/d12bd09d-72d3-4372-bf74-34a4df5c157e)
+![Screenshot 2025-01-17 210503](https://github.com/user-attachments/assets/6d61b777-5495-4ab5-835e-6e6bb9c709fd)
 
 
 ## Uygulamanın Tanıtım Videosu
 
-[https://youtu.be/GO4N3OHjQ7s](https://youtu.be/GO4N3OHjQ7s)
+https://www.youtube.com/watch?v=_ko_cjG3NiY&ab_channel=YasirNuhba%C5%9Fa
