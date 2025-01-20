@@ -69,7 +69,8 @@ Yemek görselinin sağ üst köşesindeki favori simgesine tıklayarak ilgili ye
 Favori butonundan Favori listesine giderek daha önce eklediği yemeklere kolayca ulaşabilir.İsterse de favori listesine eklediği yemeği favoriden kaldırabilir.
 
 ![Screenshot 2025-01-17 210252](https://github.com/user-attachments/assets/51338658-8474-4714-8255-67e5f8e0fab1)
-![Screenshot 2025-01-17 211041](https://github.com/user-attachments/assets/d00e4b90-5129-4a0e-9fa0-7e01883a5d94)
+![Screenshot 2025-01-17 211239](https://github.com/user-attachments/assets/e93398a1-824f-4da1-9e73-8522bbdf000b)
+
 
 
 
