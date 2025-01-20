@@ -1,95 +1,16 @@
-# Uygulamanın yapımcıları
+# tarif_kitabi
 
-Rıdvan Yasir Nuhbaşa
+A new Flutter project.
 
-Ömer Faruk Güngörmüş
+## Getting Started
 
-Yusuf Talay
+This project is a starting point for a Flutter application.
 
-# Uygulama Adı: Ömer Usta'nın Mutfağı
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Uygulama Açıklaması
-Ömer Usta'nın Mutfağı, Türk mutfağının eşsiz lezzetlerini tanıtmayı ve kullanıcıların evde kolayca hazırlayabilmelerini sağlamayı amaçlayan bir yemek tarifi uygulamasıdır. Bu uygulama, yemeklerin yapım aşamalarını detaylı açıklamalar ve rehber niteliğindeki videolar ile destekleyerek kullanıcılara kapsamlı bir deneyim sunar.
-Kullanıcılar, uygulama aracılığıyla istedikleri yemeğin tarifine hızlıca erişebilir ve pratik yöntemlerle en iyi sonuçları elde edebilirler. Özenle hazırlanmış içerikler ve kolay erişim sağlayan kullanıcı dostu tasarımı sayesinde Ömer Usta'nın Mutfağı, diğer yemek tarifleri uygulamalarından ayrılarak kaliteli bir seçenek sunar.
-
-## Özellikler
-- Ana Ekran: Uygulama başlatıldığında, ekranın en üst kısmında uygulamanın adı ve alt kısmında bir reklam yer almaktadır.
-- Kategoriler: Reklamın hemen altında, kullanıcıların yemek türlerini kolayca filtreleyebileceği bir kategori bölümü bulunmaktadır. Kategoriler şunlardır: Hepsi, Kahvaltı, Yemek, Çorba, Tatlı. Kullanıcı, bu kategorilerden birini seçerek 
-  aradığı tariflere hızlıca ulaşabilir.
-- Yemek Kartları: Seçilen kategoriye bağlı olarak, tarifler resimli ve açıklamalı bir şekilde listelenir. Kullanıcı, istediği tarifin üzerine tıklayarak detaylı bilgilere erişebilir.
-- Favorilere Ekleme: Yemek tariflerinin resimlerinin sağ üst köşesinde bir "Favorilere Ekle" butonu yer alır. Kullanıcı, bu butonu kullanarak tarifleri favori listesine ekleyebilir ya da listeden çıkarabilir.
-- Alt Menü: Uygulamanın alt kısmında iki temel buton bulunmaktadır:
-  
-  Ana Sayfa: Uygulamanın başlangıç arayüzüne dönüş sağlar.
-  
-  Favoriler: Kullanıcıların favori tariflerine kolayca erişebileceği bir liste sunar. Favoriler listesindeki tariflerin detaylarına buradan ulaşılabilir.
-  
-- Yemek Detay Ekranı: Bir yemek tarifi seçildiğinde, kullanıcıyı detaylı bir ekran karşılar. Bu ekranda; ekranın üst kısmında yemeğin resmi, altında yemeğin açıklaması, malzeme listesi ve "Pişirmeye Başla" butonu yer alır.
-- Yapım Videosu: Kullanıcı, "Pişirmeye Başla" butonuna tıklayarak tarifin yapılışını anlatan videoya yönlendirilir ve bu videoyu izleyerek yemeğini kolayca hazırlayabilir.
-
-
-## Ekran Görüntüleri
-
-#### Uygulama Ana Sayfası
-Uygulama başlatıldığında, kullanıcıyı karşılayan ilk ekran ana sayfa ekranıdır.
-
-
-- Üst Kısım:
-Bu bölümde uygulamanın adı ve reklam banner'ı yer almaktadır.
-
-
-- Orta Kısım:
-Kategoriler ile birlikte yemeklerin görselleri ve isimleri sunulmaktadır.
-
-
-- Alt Kısım:
-Ana sayfa ekranının en altında, Ana Ekran ve Favori butonları bulunmaktadır.
-
-
-![Screenshot 2025-01-18 151715](https://github.com/user-attachments/assets/21178baf-066e-46ec-a702-8596ac6e94a4)
-![Screenshot 2025-01-17 205955](https://github.com/user-attachments/assets/5c6ca8d9-7197-47c5-8313-31fb3c5c364a)
-![Screenshot 2025-01-17 210548](https://github.com/user-attachments/assets/b03bc6d5-afea-486b-b037-cede741ab706)
-
-
-
-
-
-
-#### Favori Listesi Kullanımı
-Kullanıcı, bir yemeği favori listesine eklemek için şu adımları takip edebilir:
-
-
-- Favorilere Ekleme:
-Yemek görselinin sağ üst köşesindeki favori simgesine tıklayarak ilgili yemeği favori listesine ekleyebilir.
-
- 
-- Favori Listesine Erişim:
-Favori butonundan Favori listesine giderek daha önce eklediği yemeklere kolayca ulaşabilir.İsterse de favori listesine eklediği yemeği favoriden kaldırabilir.
-
-![Screenshot 2025-01-17 211454](https://github.com/user-attachments/assets/93cb613b-cbb4-48c0-8ed4-7d692648d60f)
-![Screenshot 2025-01-17 211239](https://github.com/user-attachments/assets/d2a822b4-dfda-4bbd-9b1d-0a0e331c3ed0)
-
-
-
-
-
-#### Yemek Tarifine Erişim
-Kullanıcı, yapmak istediği yemeği seçmek için ilgili yemeğin üzerine tıklayarak, yemeğin açıklamaları ve malzemeleri hakkında detaylı bilgiye ulaşabilir.
-
-
-- Yemek Tarifi:
-Yemeğin açıklamaları ve gerekli malzemeler, kullanıcıya yemeğin hazırlanışı hakkında kapsamlı bir bilgi sunar.
-
-
-- Pişirme Videosu:
-Kullanıcı, pişirmeye başla butonuna tıklayarak yemeğin yapılışını gösteren video içeriğine erişebilir.
-
-![Screenshot 2025-01-17 210404](https://github.com/user-attachments/assets/3c50891c-6cad-47cb-b10c-248dafdd35dd)
-![Screenshot 2025-01-17 210503](https://github.com/user-attachments/assets/581dbdce-2eda-490b-82da-c1a58eefea1a)
-
-
-
-## Uygulamanın Tanıtım Videosu
-
-[https://youtu.be/GO4N3OHjQ7s](https://youtu.be/GO4N3OHjQ7s)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
