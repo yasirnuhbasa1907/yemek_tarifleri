@@ -44,7 +44,7 @@ Kategoriler ile birlikte yemeklerin görselleri ve isimleri sunulmaktadır.
 
 
 - Alt Kısım:
-Ana sayfa ekranının en altında, Ana Ekran ve Favori butonları bulunmaktadır.
+Ana sayfa ekranının en altında, Ana Sayfa ve Favori butonları bulunmaktadır.
 
 
 ![Screenshot 2025-01-18 151715](https://github.com/user-attachments/assets/277fe2f9-b4d0-4d0d-845b-404e30478811)
