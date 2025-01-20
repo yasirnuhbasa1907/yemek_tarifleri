@@ -47,9 +47,10 @@ Kategoriler ile birlikte yemeklerin görselleri ve isimleri sunulmaktadır.
 Ana sayfa ekranının en altında, Ana Ekran ve Favori butonları bulunmaktadır.
 
 
-![Screenshot 2025-01-18 151715](https://github.com/user-attachments/assets/21178baf-066e-46ec-a702-8596ac6e94a4)
-![Screenshot 2025-01-17 205955](https://github.com/user-attachments/assets/5c6ca8d9-7197-47c5-8313-31fb3c5c364a)
-![Screenshot 2025-01-17 210548](https://github.com/user-attachments/assets/b03bc6d5-afea-486b-b037-cede741ab706)
+![Screenshot 2025-01-18 151715](https://github.com/user-attachments/assets/277fe2f9-b4d0-4d0d-845b-404e30478811)
+![Screenshot 2025-01-17 205955](https://github.com/user-attachments/assets/e6dbaec7-95fa-4b87-b2d5-711e6e46ed31)
+![Screenshot 2025-01-17 210548](https://github.com/user-attachments/assets/6ec8e953-1b13-427e-962b-285723d47f37)
+
 
 
 
